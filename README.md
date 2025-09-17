@@ -1,7 +1,7 @@
 # Ahuv04
 ### Hi there 👋, My name is Akhilesh
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahuv04)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahuv04) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahuv04&show_icons=true)   -->
 
